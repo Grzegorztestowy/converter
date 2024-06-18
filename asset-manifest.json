@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/conventer/static/css/main.e779a17d.css",
+    "main.js": "/conventer/static/js/main.6bec2e8b.js",
+    "static/js/453.89d974d5.chunk.js": "/conventer/static/js/453.89d974d5.chunk.js",
+    "static/media/money.jpg": "/conventer/static/media/money.0c0766e5edc4a695f96e.jpg",
+    "index.html": "/conventer/index.html",
+    "main.e779a17d.css.map": "/conventer/static/css/main.e779a17d.css.map",
+    "main.6bec2e8b.js.map": "/conventer/static/js/main.6bec2e8b.js.map",
+    "453.89d974d5.chunk.js.map": "/conventer/static/js/453.89d974d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e779a17d.css",
+    "static/js/main.6bec2e8b.js"
+  ]
+}
