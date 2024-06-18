@@ -1,7 +1,7 @@
 # Grzegorz Prabucki - Przelicznik Walut
 ## ^_^
 
-[demo](https://grzegorztestowy.github.io/conventer/)
+[demo](https://grzegorztestowy.github.io/converter/)
 
 ## Welcome to the Readme :-)
 On this page, it presents a currency converter. You can check how much foreign currency you can buy for the selected amount of PLN. 
